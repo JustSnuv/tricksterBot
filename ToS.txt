@@ -1,0 +1,27 @@
+Trickster – Terms of Service
+
+1. Usage
+Trickster is intended for entertainment purposes only.
+All users must follow Discord’s Community Guidelines and Terms of Service when interacting with the bot.
+
+2. Accounts
+
+Users must not create multiple accounts to gain unfair advantages.
+Attempts to exploit the bot, manipulate game data, or otherwise cheat may result in account restrictions or a permanent ban from using Trickster.
+Usernames must comply with Discord’s ToS. Accounts with inappropriate usernames may be restricted from using certain commands or accessing the bot entirely.
+
+3. Content
+
+Do not use Trickster to share, post, or promote inappropriate, offensive, or illegal content.
+All submissions, messages, or user-generated content are the responsibility of the user.
+
+4. Bot Functionality
+
+The developers strive to keep Trickster online and functional at all times.
+Downtime or temporary interruptions may occur, and the developers are not liable for any data loss or disruptions.
+All in-game currency, items, and rewards are virtual and hold no real-world monetary value.
+
+5. Liability
+
+The developers are not responsible for any losses, damages, or issues arising from the use of Trickster.
+By using the bot, users accept all risks associated with gameplay.
