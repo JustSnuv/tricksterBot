@@ -1,0 +1,30 @@
+Trickster Privacy Policy
+
+1. Information We Collect
+Trickster collects minimal information to provide its services, including your Discord user ID and in-game activity (e.g., Candy, Cookies, gameplay stats). No personal information like email or real-world identity is collected unless you voluntarily provide it.
+
+2. How We Use Information
+- To operate and improve the bot’s features (game stats, leaderboards, rewards).
+- To prevent abuse, cheating, or fraud.
+- To communicate important updates or maintenance notices.
+
+3. Data Sharing
+Trickster does not sell, rent, or share your personal information with third parties, except where required by law or Discord compliance.
+
+4. Data Storage & Retention
+All collected data is stored securely in our databases. We retain your data for as long as you use the bot or until you request deletion.
+
+5. Your Rights
+You can request deletion of your data at any time by contacting the developers. Note that deleted data is permanent and cannot be restored.
+
+6. Security
+We implement standard measures to protect your data. However, no system is 100% secure, and we are not liable for breaches outside of our control.
+
+7. Third-Party Services
+Trickster may use third-party libraries or APIs (like Discord) to function. These services have their own privacy policies.
+
+8. Updates to This Policy
+We may update this Privacy Policy occasionally. Users will be notified via the bot or changelogs. Continued use of Trickster constitutes acceptance of changes.
+
+Contact
+For privacy inquiries or data deletion requests, contact: discord.gg/43kaQUsUjf
